@@ -1,0 +1,16 @@
+#search{
+    position:"absolute";
+    margin-right:"8.2rem";
+    width:"1rem";
+    padding:"0rem";
+    transition:"width 0.3s linear";
+    border-radius:"0.8rem";
+    outline:"none";
+    border:"none";
+  
+  }
+  #search:focus{
+    padding:"0.7rem";
+    width:"11rem";
+  }
+  
